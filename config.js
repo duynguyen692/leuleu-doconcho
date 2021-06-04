@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Nhi à!',
+    introTitle: 'Nhi ơi Nhi à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương <3`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy, anh thích em đấy mà em có thích anh không???',
